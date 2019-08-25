@@ -1,8 +1,8 @@
 # stock_market
 Super Simple Stock Market
 Run file on command prompt
-change the directory to save file directory
-execute the file by entering stock_market.py from command promt
+change the directory to where the file has saved
+Run the command - python stock_market.py
 
 Below mentioned options are been provided
 1. Calculate Dividend
